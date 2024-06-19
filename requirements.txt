@@ -1,0 +1,12 @@
+aiohttp
+bottleneck
+cubo
+dask
+earthengine-api
+jupyterlab
+lexcube
+matplotlib
+netCDF4
+requests
+xee
+zarr
