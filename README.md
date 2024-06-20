@@ -1,7 +1,7 @@
 # Harnessing Earth's Data: Mastering Earth System Data Cubes
 ## FOSS4G Europe 2024, Tartu, Estonia, 07-01, 11:00–13:00 (Europe/Tallinn), Room 301
 
-This repository contains the notebooks of the "Harnessing Earth's Data: Mastering Earth System Data Cubes" workshop, led by [David Montero Loaiza]() and [Maximilian Söchting]() from the [Remote Sensing Centre for Earth System Research (RSC4Earth), Leipzig University, Germany]().
+This repository contains the notebooks of the "Harnessing Earth's Data: Mastering Earth System Data Cubes" workshop, led by [David Montero Loaiza](https://github.com/davemlz) and [Maximilian Söchting](https://msoechting.de/en/) from the [Remote Sensing Centre for Earth System Research (RSC4Earth), Leipzig University, Germany](https://rsc4earth.de/).
 
 For running the notebooks, please run the following lines in your environment:
 
